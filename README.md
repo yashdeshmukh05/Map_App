@@ -1,6 +1,5 @@
 # Restaurant Finder Map App
 
-![App Screenshot](screenshot.png)
 
 ## Overview
 
@@ -13,36 +12,9 @@ Key Features:
 - Display restaurant markers within the selected area.
 - Host the app on GitHub and Netlify for easy access.
 
-## Demo
 
-Usage Video [here](https://www.youtube.com/watch?v=mP6fmBPX0eg).
-Netlify live  [here](https://snazzy-phoenix-19d8f5.netlify.app/).
 
-## Getting Started
 
-Follow the steps below to run the app locally:
-
-1. Clone this repository to your local machine.
-
-   ```bash
-   git clone https://github.com/aviket/react_leaflet_overpass.git
-
-2. Navigate to the project directory.
-
-```bash
-cd restaurant-finder-app
-
-3. Install the required dependencies.
-
-```bash
-npm install
-
-4. Start the development server.
-
-```bash
-npm run start
-
-5. Open your web browser and access http://localhost:3000 to view the app.
 
 ## Usage
 
@@ -56,12 +28,11 @@ Restaurants are displayed as markers on the map, with pop-up details.
 ## Credits
 This app is built with React and React Leaflet.
 It uses the Overpass API to retrieve restaurant data.
-Marker icons are provided by Leaflet.
+Marker icons are provided by react icon.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ## Author
-Avinash
-GitHub: https://github.com/aviket
+Yash Deshmukh
+GitHub: https://github.com/yashdeshmukh05
 
